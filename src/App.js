@@ -1,8 +1,8 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 // import './App.css';
 import React, { useState, useEffect } from "react";
-import { Button } from "./button";
-import { Table, TableHeader, TableRow, TableHead, TableBody, TableCell } from "./table";
+// import { Button } from "./button";
+// import { Table, TableHeader, TableRow, TableHead, TableBody, TableCell } from "./table";
 import Papa from "papaparse";
 import recipesFile from "./recipes.csv";
 
@@ -83,12 +83,12 @@ function App() {
 
       
       <div>
-      <h1>สูตรอาหาร</h1>
+      <h1>Recipes</h1>
 
       {/* ช่องค้นหา */}
       <input
         type="text"
-        placeholder="ค้นหาสูตรอาหาร..."
+        placeholder="Search...."
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
         className="p-2 border rounded mb-4"
