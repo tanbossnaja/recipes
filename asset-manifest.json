@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/recipes/static/js/main.4979645b.js",
+    "main.js": "/recipes/static/js/main.a69371f5.js",
     "static/js/453.e9d4eb2f.chunk.js": "/recipes/static/js/453.e9d4eb2f.chunk.js",
-    "static/media/recipes.csv": "/recipes/static/media/recipes.045b5683dd8e7364f4f9.csv",
+    "static/media/recipes.csv": "/recipes/static/media/recipes.dbfc0bbb0e74c9e0a652.csv",
     "index.html": "/recipes/index.html",
-    "main.4979645b.js.map": "/recipes/static/js/main.4979645b.js.map",
+    "main.a69371f5.js.map": "/recipes/static/js/main.a69371f5.js.map",
     "453.e9d4eb2f.chunk.js.map": "/recipes/static/js/453.e9d4eb2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.4979645b.js"
+    "static/js/main.a69371f5.js"
   ]
 }
